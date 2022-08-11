@@ -1,8 +1,8 @@
 # Wideview - Home Assignment | Ido Slivko
-Login page: 2 days sprint to achieve a login page using an external ui library - [Chakra UI](https://chakra-ui.com/) and implementing a mock-data/server. I used [Mirage JS](https://miragejs.com/).
+> Login page: 2 days sprint to achieve a login page using an external ui library - [Chakra UI](https://chakra-ui.com/) and implementing a mock-data/server. I used [Mirage JS](https://miragejs.com/).  
 [Try this active version here]()  
-A successful request will have this payload:
-email: example@example.com
+A successful request will have this payload:  
+email: example@example.com  
 password: 1234
 
 Enjoy!
